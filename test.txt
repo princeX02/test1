@@ -1,1 +1,5 @@
 This is test file.
+DDL-> Data Defination Language.
+DML -> Data Manipulation Language.
+DQL -> Data Query Language.
+DCL -> Data Control Language.
